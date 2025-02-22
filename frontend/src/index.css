@@ -71,7 +71,7 @@ html{font-size: 10px;}
 }
 
 .main-signup {
-    height: 95vh;
+    height: 85vh;
     width: 100%;
     background-image: linear-gradient(45deg,rgb(233, 200, 200),rgb(198, 223, 198),rgb(214, 214, 232));
     display: flex;
