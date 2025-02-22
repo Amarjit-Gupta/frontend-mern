@@ -56,7 +56,7 @@ const Signup = () => {
                 }
             }
             catch (err) {
-                toast.error("something went wrong try again...");
+                console.log("something went wrong try again...");
             }
         }
         else {
