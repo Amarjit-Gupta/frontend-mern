@@ -71,7 +71,7 @@ html{font-size: 10px;}
 }
 
 .main-signup {
-    height: 85vh;
+    height: 80vh;
     width: 100%;
     background-image: linear-gradient(45deg,rgb(233, 200, 200),rgb(198, 223, 198),rgb(214, 214, 232));
     display: flex;
@@ -145,6 +145,8 @@ html{font-size: 10px;}
     padding: 1.5rem 0rem 1.5rem 0rem;
     width: 100%;
     border-top: grey solid 0.1rem;
+    position:absolute;
+    bottom:0rem;
 }
 
 
